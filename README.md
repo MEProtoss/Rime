@@ -1,3 +1,5 @@
+# 原文地址：[yaocccc/rime](https://github.com/yaocccc/rime)
+
 # RIME 配置
 
 基于rime实现的 以小鹤双拼作为双拼方案 以超强音形(二笔)作为辅助码 实现的输入方案
